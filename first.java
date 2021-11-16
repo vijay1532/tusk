@@ -14,5 +14,7 @@ System.out.println("Hello world");
   public static int divide(int a,int b){
     return a/b;
   }
-
+public static int multiplication(int a,int b){
+    return a*b;
+  }
 }
